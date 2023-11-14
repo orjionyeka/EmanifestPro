@@ -1,0 +1,7 @@
+#tooltip-content {
+	display: none;        /* required */
+	position: absolute;   /* required */
+	padding: 10px;
+	border: 1px solid black;
+	background-color: white;
+}

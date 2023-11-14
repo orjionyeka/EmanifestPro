@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eRegistrationRequest>
+	<Identification>
+		<Registry_number>TUND001</Registry_number>
+		<Date>2011-02-24</Date>
+		<Customs_office_code>06WR</Customs_office_code>
+	</Identification>
+	<Totals_segment>
+		<Total_number_of_bols>2</Total_number_of_bols>
+		<Total_number_of_containers>1</Total_number_of_containers>
+		<Total_number_of_packages>2</Total_number_of_packages>
+		<Total_gross_mass>5000</Total_gross_mass>
+	</Totals_segment>
+</eRegistrationRequest>

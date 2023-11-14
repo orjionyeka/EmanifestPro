@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ManifestRegisterTransactionResponse>
+<Identification>
+<CustomsCode>06WR</CustomsCode>
+<Registry_number>RIK001</Registry_number>
+<Date>2011-02-22</Date>
+</Identification>
+<TransactionStatus>Ok</TransactionStatus>
+<Info>
+<Message>Operation completed successfully, Manifest was registered</Message>
+</Info>
+<Registration_information>
+<Registration_number>27</Registration_number>
+<Registration_year>2011</Registration_year>
+<Registration_date>2011-02-24</Registration_date>
+</Registration_information>
+</ManifestRegisterTransactionResponse>
